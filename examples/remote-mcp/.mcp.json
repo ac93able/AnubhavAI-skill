@@ -10,7 +10,7 @@
     },
     "git": {
       "command": "python",
-      "args": ["-m", "mcp_server_git", "--repository", "C:\Users\Asus\Developer\AnubhavAI-skill"]
+      "args": ["-m", "mcp_server_git", "--repository", "https://github.com/ac93able/AnubhavAI-skill.git"]
     }
   }
 }
