@@ -7,6 +7,10 @@
     "claude-code-docs": {
       "type": "http",
       "url": "https://code.claude.com/docs/mcp"
+    },
+     "git": {
+      "command": "python",
+      "args": ["-m", "mcp_server_git", "--repository", "https://github.com/ac93able/AnubhavAI-skill.git"]
     }
   }
 }
